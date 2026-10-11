@@ -6,7 +6,11 @@
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <cc:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+<<<<<<< Updated upstream
     <dc:date>2026-10-11T01:24:20.242974</dc:date>
+=======
+    <dc:date>2026-10-11T01:36:08.746191</dc:date>
+>>>>>>> Stashed changes
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <cc:Agent>
@@ -45,7 +49,11 @@ L 149.160857 290.829917
 L 149.160857 339.251651 
 L 75.391714 339.251651 
 z
+<<<<<<< Updated upstream
 " clip-path="url(#p41ff292258)" style="fill: #808080; opacity: 0.3; stroke: #808080; stroke-linejoin: miter"/>
+=======
+" clip-path="url(#p477c61cfab)" style="fill: #808080; opacity: 0.3; stroke: #808080; stroke-linejoin: miter"/>
+>>>>>>> Stashed changes
    </g>
    <g id="patch_4">
     <path d="M 112.276286 387.673385 
@@ -58,7 +66,11 @@ C 79.278105 314.092692 75.391714 326.410057 75.391714 339.251651
 C 75.391714 352.093245 79.278105 364.410609 86.194955 373.490987 
 C 93.111805 382.571365 102.494383 387.673385 112.276286 387.673385 
 z
+<<<<<<< Updated upstream
 " clip-path="url(#p41ff292258)" style="fill: #808080; opacity: 0.3; stroke: #808080; stroke-linejoin: miter"/>
+=======
+" clip-path="url(#p477c61cfab)" style="fill: #808080; opacity: 0.3; stroke: #808080; stroke-linejoin: miter"/>
+>>>>>>> Stashed changes
    </g>
    <g id="patch_5">
     <path d="M 167.603143 290.829917 
@@ -66,7 +78,11 @@ L 241.372286 290.829917
 L 241.372286 325.792614 
 L 167.603143 325.792614 
 z
+<<<<<<< Updated upstream
 " clip-path="url(#p41ff292258)" style="fill: #808080; opacity: 0.3; stroke: #808080; stroke-linejoin: miter"/>
+=======
+" clip-path="url(#p477c61cfab)" style="fill: #808080; opacity: 0.3; stroke: #808080; stroke-linejoin: miter"/>
+>>>>>>> Stashed changes
    </g>
    <g id="patch_6">
     <path d="M 204.487714 374.214348 
@@ -79,7 +95,11 @@ C 171.489534 300.633656 167.603143 312.95102 167.603143 325.792614
 C 167.603143 338.634208 171.489534 350.951572 178.406384 360.031951 
 C 185.323233 369.112329 194.705812 374.214348 204.487714 374.214348 
 z
+<<<<<<< Updated upstream
 " clip-path="url(#p41ff292258)" style="fill: #808080; opacity: 0.3; stroke: #808080; stroke-linejoin: miter"/>
+=======
+" clip-path="url(#p477c61cfab)" style="fill: #808080; opacity: 0.3; stroke: #808080; stroke-linejoin: miter"/>
+>>>>>>> Stashed changes
    </g>
    <g id="patch_7">
     <path d="M 259.814571 290.829917 
@@ -87,7 +107,11 @@ L 333.583714 290.829917
 L 333.583714 125.460891 
 L 259.814571 125.460891 
 z
+<<<<<<< Updated upstream
 " clip-path="url(#p41ff292258)" style="fill: #808080; opacity: 0.3; stroke: #808080; stroke-linejoin: miter"/>
+=======
+" clip-path="url(#p477c61cfab)" style="fill: #808080; opacity: 0.3; stroke: #808080; stroke-linejoin: miter"/>
+>>>>>>> Stashed changes
    </g>
    <g id="patch_8">
     <path d="M 296.699143 173.882625 
@@ -100,7 +124,11 @@ C 263.700963 100.301933 259.814571 112.619297 259.814571 125.460891
 C 259.814571 138.302485 263.700963 150.619849 270.617812 159.700228 
 C 277.534662 168.780606 286.91724 173.882625 296.699143 173.882625 
 z
+<<<<<<< Updated upstream
 " clip-path="url(#p41ff292258)" style="fill: #808080; opacity: 0.3; stroke: #808080; stroke-linejoin: miter"/>
+=======
+" clip-path="url(#p477c61cfab)" style="fill: #808080; opacity: 0.3; stroke: #808080; stroke-linejoin: miter"/>
+>>>>>>> Stashed changes
    </g>
    <g id="patch_9">
     <path d="M 352.026 290.829917 
@@ -108,7 +136,11 @@ L 425.795143 290.829917
 L 425.795143 237.553905 
 L 352.026 237.553905 
 z
+<<<<<<< Updated upstream
 " clip-path="url(#p41ff292258)" style="fill: #808080; opacity: 0.3; stroke: #808080; stroke-linejoin: miter"/>
+=======
+" clip-path="url(#p477c61cfab)" style="fill: #808080; opacity: 0.3; stroke: #808080; stroke-linejoin: miter"/>
+>>>>>>> Stashed changes
    </g>
    <g id="patch_10">
     <path d="M 388.910571 285.975638 
@@ -121,7 +153,11 @@ C 355.912391 212.394946 352.026 224.712311 352.026 237.553905
 C 352.026 250.395498 355.912391 262.712863 362.829241 271.793241 
 C 369.746091 280.873619 379.128669 285.975638 388.910571 285.975638 
 z
+<<<<<<< Updated upstream
 " clip-path="url(#p41ff292258)" style="fill: #808080; opacity: 0.3; stroke: #808080; stroke-linejoin: miter"/>
+=======
+" clip-path="url(#p477c61cfab)" style="fill: #808080; opacity: 0.3; stroke: #808080; stroke-linejoin: miter"/>
+>>>>>>> Stashed changes
    </g>
    <g id="patch_11">
     <path d="M 444.237429 290.829917 
@@ -129,7 +165,11 @@ L 518.006571 290.829917
 L 518.006571 184.539678 
 L 444.237429 184.539678 
 z
+<<<<<<< Updated upstream
 " clip-path="url(#p41ff292258)" style="fill: #808080; opacity: 0.3; stroke: #808080; stroke-linejoin: miter"/>
+=======
+" clip-path="url(#p477c61cfab)" style="fill: #808080; opacity: 0.3; stroke: #808080; stroke-linejoin: miter"/>
+>>>>>>> Stashed changes
    </g>
    <g id="patch_12">
     <path d="M 481.122 232.961412 
@@ -142,7 +182,11 @@ C 448.12382 159.38072 444.237429 171.698084 444.237429 184.539678
 C 444.237429 197.381272 448.12382 209.698636 455.040669 218.779014 
 C 461.957519 227.859392 471.340097 232.961412 481.122 232.961412 
 z
+<<<<<<< Updated upstream
 " clip-path="url(#p41ff292258)" style="fill: #808080; opacity: 0.3; stroke: #808080; stroke-linejoin: miter"/>
+=======
+" clip-path="url(#p477c61cfab)" style="fill: #808080; opacity: 0.3; stroke: #808080; stroke-linejoin: miter"/>
+>>>>>>> Stashed changes
    </g>
    <g id="patch_13">
     <path d="M 536.448857 290.829917 
@@ -150,7 +194,11 @@ L 610.218 290.829917
 L 610.218 276.814952 
 L 536.448857 276.814952 
 z
+<<<<<<< Updated upstream
 " clip-path="url(#p41ff292258)" style="fill: #808080; opacity: 0.3; stroke: #808080; stroke-linejoin: miter"/>
+=======
+" clip-path="url(#p477c61cfab)" style="fill: #808080; opacity: 0.3; stroke: #808080; stroke-linejoin: miter"/>
+>>>>>>> Stashed changes
    </g>
    <g id="patch_14">
     <path d="M 573.333429 325.236686 
@@ -163,7 +211,11 @@ C 540.335248 251.655994 536.448857 263.973358 536.448857 276.814952
 C 536.448857 289.656546 540.335248 301.97391 547.252098 311.054288 
 C 554.168948 320.134666 563.551526 325.236686 573.333429 325.236686 
 z
+<<<<<<< Updated upstream
 " clip-path="url(#p41ff292258)" style="fill: #808080; opacity: 0.3; stroke: #808080; stroke-linejoin: miter"/>
+=======
+" clip-path="url(#p477c61cfab)" style="fill: #808080; opacity: 0.3; stroke: #808080; stroke-linejoin: miter"/>
+>>>>>>> Stashed changes
    </g>
    <g id="patch_15">
     <path d="M 628.660286 290.829917 
@@ -171,7 +223,11 @@ L 702.429429 290.829917
 L 702.429429 280.076191 
 L 628.660286 280.076191 
 z
+<<<<<<< Updated upstream
 " clip-path="url(#p41ff292258)" style="fill: #808080; opacity: 0.3; stroke: #808080; stroke-linejoin: miter"/>
+=======
+" clip-path="url(#p477c61cfab)" style="fill: #808080; opacity: 0.3; stroke: #808080; stroke-linejoin: miter"/>
+>>>>>>> Stashed changes
    </g>
    <g id="patch_16">
     <path d="M 665.544857 328.497925 
@@ -184,7 +240,11 @@ C 632.546677 254.917233 628.660286 267.234597 628.660286 280.076191
 C 628.660286 292.917785 632.546677 305.235149 639.463527 314.315527 
 C 646.380376 323.395905 655.762954 328.497925 665.544857 328.497925 
 z
+<<<<<<< Updated upstream
 " clip-path="url(#p41ff292258)" style="fill: #808080; opacity: 0.3; stroke: #808080; stroke-linejoin: miter"/>
+=======
+" clip-path="url(#p477c61cfab)" style="fill: #808080; opacity: 0.3; stroke: #808080; stroke-linejoin: miter"/>
+>>>>>>> Stashed changes
    </g>
    <g id="matplotlib.axis_1">
     <g id="xtick_1">
@@ -541,7 +601,11 @@ z
      <g id="line2d_1">
       <path d="M 61.56 289.619373 
 L 707.04 289.619373 
+<<<<<<< Updated upstream
 " clip-path="url(#p41ff292258)" style="fill: none; stroke: #cccccc; stroke-linecap: round"/>
+=======
+" clip-path="url(#p477c61cfab)" style="fill: none; stroke: #cccccc; stroke-linecap: round"/>
+>>>>>>> Stashed changes
      </g>
      <g id="text_8">
       <!-- 0% -->
@@ -604,7 +668,11 @@ z
      <g id="line2d_2">
       <path d="M 61.56 259.35579 
 L 707.04 259.35579 
+<<<<<<< Updated upstream
 " clip-path="url(#p41ff292258)" style="fill: none; stroke: #cccccc; stroke-linecap: round"/>
+=======
+" clip-path="url(#p477c61cfab)" style="fill: none; stroke: #cccccc; stroke-linecap: round"/>
+>>>>>>> Stashed changes
      </g>
      <g id="text_9">
       <!-- 5% -->
@@ -618,7 +686,11 @@ L 707.04 259.35579
      <g id="line2d_3">
       <path d="M 61.56 229.092206 
 L 707.04 229.092206 
+<<<<<<< Updated upstream
 " clip-path="url(#p41ff292258)" style="fill: none; stroke: #cccccc; stroke-linecap: round"/>
+=======
+" clip-path="url(#p477c61cfab)" style="fill: none; stroke: #cccccc; stroke-linecap: round"/>
+>>>>>>> Stashed changes
      </g>
      <g id="text_10">
       <!-- 10% -->
@@ -633,7 +705,11 @@ L 707.04 229.092206
      <g id="line2d_4">
       <path d="M 61.56 198.828622 
 L 707.04 198.828622 
+<<<<<<< Updated upstream
 " clip-path="url(#p41ff292258)" style="fill: none; stroke: #cccccc; stroke-linecap: round"/>
+=======
+" clip-path="url(#p477c61cfab)" style="fill: none; stroke: #cccccc; stroke-linecap: round"/>
+>>>>>>> Stashed changes
      </g>
      <g id="text_11">
       <!-- 15% -->
@@ -648,7 +724,11 @@ L 707.04 198.828622
      <g id="line2d_5">
       <path d="M 61.56 168.565039 
 L 707.04 168.565039 
+<<<<<<< Updated upstream
 " clip-path="url(#p41ff292258)" style="fill: none; stroke: #cccccc; stroke-linecap: round"/>
+=======
+" clip-path="url(#p477c61cfab)" style="fill: none; stroke: #cccccc; stroke-linecap: round"/>
+>>>>>>> Stashed changes
      </g>
      <g id="text_12">
       <!-- 20% -->
@@ -663,7 +743,11 @@ L 707.04 168.565039
      <g id="line2d_6">
       <path d="M 61.56 138.301455 
 L 707.04 138.301455 
+<<<<<<< Updated upstream
 " clip-path="url(#p41ff292258)" style="fill: none; stroke: #cccccc; stroke-linecap: round"/>
+=======
+" clip-path="url(#p477c61cfab)" style="fill: none; stroke: #cccccc; stroke-linecap: round"/>
+>>>>>>> Stashed changes
      </g>
      <g id="text_13">
       <!-- 25% -->
@@ -678,7 +762,11 @@ L 707.04 138.301455
      <g id="line2d_7">
       <path d="M 61.56 108.037871 
 L 707.04 108.037871 
+<<<<<<< Updated upstream
 " clip-path="url(#p41ff292258)" style="fill: none; stroke: #cccccc; stroke-linecap: round"/>
+=======
+" clip-path="url(#p477c61cfab)" style="fill: none; stroke: #cccccc; stroke-linecap: round"/>
+>>>>>>> Stashed changes
      </g>
      <g id="text_14">
       <!-- 30% -->
@@ -727,7 +815,11 @@ z
      <g id="line2d_8">
       <path d="M 61.56 77.774288 
 L 707.04 77.774288 
+<<<<<<< Updated upstream
 " clip-path="url(#p41ff292258)" style="fill: none; stroke: #cccccc; stroke-linecap: round"/>
+=======
+" clip-path="url(#p477c61cfab)" style="fill: none; stroke: #cccccc; stroke-linecap: round"/>
+>>>>>>> Stashed changes
      </g>
      <g id="text_15">
       <!-- 35% -->
@@ -742,7 +834,11 @@ L 707.04 77.774288
      <g id="line2d_9">
       <path d="M 61.56 47.510704 
 L 707.04 47.510704 
+<<<<<<< Updated upstream
 " clip-path="url(#p41ff292258)" style="fill: none; stroke: #cccccc; stroke-linecap: round"/>
+=======
+" clip-path="url(#p477c61cfab)" style="fill: none; stroke: #cccccc; stroke-linecap: round"/>
+>>>>>>> Stashed changes
      </g>
      <g id="text_16">
       <!-- 40% -->
@@ -943,7 +1039,11 @@ L 144.550286 289.619373
 L 144.550286 338.041107 
 L 70.781143 338.041107 
 z
+<<<<<<< Updated upstream
 " clip-path="url(#p41ff292258)" style="fill: #aeccdb"/>
+=======
+" clip-path="url(#p477c61cfab)" style="fill: #aeccdb"/>
+>>>>>>> Stashed changes
    </g>
    <g id="patch_18">
     <path d="M 162.992571 289.619373 
@@ -951,7 +1051,11 @@ L 236.761714 289.619373
 L 236.761714 324.582071 
 L 162.992571 324.582071 
 z
+<<<<<<< Updated upstream
 " clip-path="url(#p41ff292258)" style="fill: #3274a1"/>
+=======
+" clip-path="url(#p477c61cfab)" style="fill: #3274a1"/>
+>>>>>>> Stashed changes
    </g>
    <g id="patch_19">
     <path d="M 255.204 289.619373 
@@ -959,7 +1063,11 @@ L 328.973143 289.619373
 L 328.973143 124.250348 
 L 255.204 124.250348 
 z
+<<<<<<< Updated upstream
 " clip-path="url(#p41ff292258)" style="fill: #b3d495"/>
+=======
+" clip-path="url(#p477c61cfab)" style="fill: #b3d495"/>
+>>>>>>> Stashed changes
    </g>
    <g id="patch_20">
     <path d="M 347.415429 289.619373 
@@ -967,7 +1075,11 @@ L 421.184571 289.619373
 L 421.184571 236.343361 
 L 347.415429 236.343361 
 z
+<<<<<<< Updated upstream
 " clip-path="url(#p41ff292258)" style="fill: #40923a"/>
+=======
+" clip-path="url(#p477c61cfab)" style="fill: #40923a"/>
+>>>>>>> Stashed changes
    </g>
    <g id="patch_21">
     <path d="M 439.626857 289.619373 
@@ -975,7 +1087,11 @@ L 513.396 289.619373
 L 513.396 183.329135 
 L 439.626857 183.329135 
 z
+<<<<<<< Updated upstream
 " clip-path="url(#p41ff292258)" style="fill: #efa6a5"/>
+=======
+" clip-path="url(#p477c61cfab)" style="fill: #efa6a5"/>
+>>>>>>> Stashed changes
    </g>
    <g id="patch_22">
     <path d="M 531.838286 289.619373 
@@ -983,7 +1099,11 @@ L 605.607429 289.619373
 L 605.607429 275.604408 
 L 531.838286 275.604408 
 z
+<<<<<<< Updated upstream
 " clip-path="url(#p41ff292258)" style="fill: #ca3335"/>
+=======
+" clip-path="url(#p477c61cfab)" style="fill: #ca3335"/>
+>>>>>>> Stashed changes
    </g>
    <g id="patch_23">
     <path d="M 624.049714 289.619373 
@@ -991,6 +1111,7 @@ L 697.818857 289.619373
 L 697.818857 278.865648 
 L 624.049714 278.865648 
 z
+<<<<<<< Updated upstream
 " clip-path="url(#p41ff292258)" style="fill: #ebbd81"/>
    </g>
    <g id="line2d_10">
@@ -1013,6 +1134,30 @@ z
    </g>
    <g id="line2d_16">
     <path clip-path="url(#p41ff292258)" style="fill: none; stroke: #424242; stroke-width: 2.25; stroke-linecap: round"/>
+=======
+" clip-path="url(#p477c61cfab)" style="fill: #ebbd81"/>
+   </g>
+   <g id="line2d_10">
+    <path clip-path="url(#p477c61cfab)" style="fill: none; stroke: #424242; stroke-width: 2.25; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_11">
+    <path clip-path="url(#p477c61cfab)" style="fill: none; stroke: #424242; stroke-width: 2.25; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_12">
+    <path clip-path="url(#p477c61cfab)" style="fill: none; stroke: #424242; stroke-width: 2.25; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_13">
+    <path clip-path="url(#p477c61cfab)" style="fill: none; stroke: #424242; stroke-width: 2.25; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_14">
+    <path clip-path="url(#p477c61cfab)" style="fill: none; stroke: #424242; stroke-width: 2.25; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_15">
+    <path clip-path="url(#p477c61cfab)" style="fill: none; stroke: #424242; stroke-width: 2.25; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_16">
+    <path clip-path="url(#p477c61cfab)" style="fill: none; stroke: #424242; stroke-width: 2.25; stroke-linecap: round"/>
+>>>>>>> Stashed changes
    </g>
    <g id="patch_24">
     <path d="M 107.665714 386.462841 
@@ -1025,7 +1170,11 @@ C 74.667534 312.882149 70.781143 325.199513 70.781143 338.041107
 C 70.781143 350.882701 74.667534 363.200066 81.584384 372.280444 
 C 88.501233 381.360822 97.883812 386.462841 107.665714 386.462841 
 z
+<<<<<<< Updated upstream
 " clip-path="url(#p41ff292258)" style="fill: #aeccdb"/>
+=======
+" clip-path="url(#p477c61cfab)" style="fill: #aeccdb"/>
+>>>>>>> Stashed changes
    </g>
    <g id="patch_25">
     <path d="M 199.877143 373.003805 
@@ -1038,7 +1187,11 @@ C 166.878963 299.423113 162.992571 311.740477 162.992571 324.582071
 C 162.992571 337.423665 166.878963 349.741029 173.795812 358.821407 
 C 180.712662 367.901785 190.09524 373.003805 199.877143 373.003805 
 z
+<<<<<<< Updated upstream
 " clip-path="url(#p41ff292258)" style="fill: #3274a1"/>
+=======
+" clip-path="url(#p477c61cfab)" style="fill: #3274a1"/>
+>>>>>>> Stashed changes
    </g>
    <g id="patch_26">
     <path d="M 292.088571 172.672082 
@@ -1051,7 +1204,11 @@ C 259.090391 99.09139 255.204 111.408754 255.204 124.250348
 C 255.204 137.091942 259.090391 149.409306 266.007241 158.489684 
 C 272.924091 167.570062 282.306669 172.672082 292.088571 172.672082 
 z
+<<<<<<< Updated upstream
 " clip-path="url(#p41ff292258)" style="fill: #b3d495"/>
+=======
+" clip-path="url(#p477c61cfab)" style="fill: #b3d495"/>
+>>>>>>> Stashed changes
    </g>
    <g id="patch_27">
     <path d="M 384.3 284.765095 
@@ -1064,7 +1221,11 @@ C 351.30182 211.184403 347.415429 223.501767 347.415429 236.343361
 C 347.415429 249.184955 351.30182 261.502319 358.218669 270.582698 
 C 365.135519 279.663076 374.518097 284.765095 384.3 284.765095 
 z
+<<<<<<< Updated upstream
 " clip-path="url(#p41ff292258)" style="fill: #40923a"/>
+=======
+" clip-path="url(#p477c61cfab)" style="fill: #40923a"/>
+>>>>>>> Stashed changes
    </g>
    <g id="patch_28">
     <path d="M 476.511429 231.750868 
@@ -1077,7 +1238,11 @@ C 443.513248 158.170176 439.626857 170.487541 439.626857 183.329135
 C 439.626857 196.170728 443.513248 208.488093 450.430098 217.568471 
 C 457.346948 226.648849 466.729526 231.750868 476.511429 231.750868 
 z
+<<<<<<< Updated upstream
 " clip-path="url(#p41ff292258)" style="fill: #efa6a5"/>
+=======
+" clip-path="url(#p477c61cfab)" style="fill: #efa6a5"/>
+>>>>>>> Stashed changes
    </g>
    <g id="patch_29">
     <path d="M 568.722857 324.026142 
@@ -1090,7 +1255,11 @@ C 535.724677 250.44545 531.838286 262.762814 531.838286 275.604408
 C 531.838286 288.446002 535.724677 300.763367 542.641527 309.843745 
 C 549.558376 318.924123 558.940954 324.026142 568.722857 324.026142 
 z
+<<<<<<< Updated upstream
 " clip-path="url(#p41ff292258)" style="fill: #ca3335"/>
+=======
+" clip-path="url(#p477c61cfab)" style="fill: #ca3335"/>
+>>>>>>> Stashed changes
    </g>
    <g id="patch_30">
     <path d="M 660.934286 327.287381 
@@ -1103,7 +1272,11 @@ C 627.936105 253.706689 624.049714 266.024054 624.049714 278.865648
 C 624.049714 291.707241 627.936105 304.024606 634.852955 313.104984 
 C 641.769805 322.185362 651.152383 327.287381 660.934286 327.287381 
 z
+<<<<<<< Updated upstream
 " clip-path="url(#p41ff292258)" style="fill: #ebbd81"/>
+=======
+" clip-path="url(#p477c61cfab)" style="fill: #ebbd81"/>
+>>>>>>> Stashed changes
    </g>
    <g id="text_18">
     <!-- Weekly Usage Summary -->
@@ -1433,7 +1606,11 @@ z
   </g>
  </g>
  <defs>
+<<<<<<< Updated upstream
   <clipPath id="p41ff292258">
+=======
+  <clipPath id="p477c61cfab">
+>>>>>>> Stashed changes
    <rect x="61.56" y="43.76" width="645.48" height="245.859373"/>
   </clipPath>
  </defs>
