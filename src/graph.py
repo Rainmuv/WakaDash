@@ -145,16 +145,18 @@ def create_weekly_summary_chart(stats, filename="day_wise_stats.svg"):
     for patch in bars.patches[:]:
         patch.remove()
 
-    # Draw custom rounded bars with shadow
+    # Draw plain rectangular bars
     for info in bar_info:
-        bar_height = info["height"]
-        width = info["width"]
-        x = info["x"]
-        y = info["y"]
-        color = info["color"]
-
-        ellipse_height = width * 20
-        radius = ellipse_height / 2
+        ax.add_patch(
+            Rectangle(
+                (info["x"], info["y"]),
+                info["width"],
+                info["height"],
+                color=info["color"],
+                linewidth=0,
+                zorder=1,
+            )
+        )
 
         # Shadow
         ax.add_patch(
