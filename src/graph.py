@@ -158,45 +158,6 @@ def create_weekly_summary_chart(stats, filename="day_wise_stats.svg"):
             )
         )
 
-        # Shadow
-        ax.add_patch(
-            Rectangle(
-                (x + 0.05, y - 0.2),
-                width,
-                bar_height - radius,
-                color="gray",
-                alpha=0.3,
-                zorder=0,
-            )
-        )
-        ax.add_patch(
-            Ellipse(
-                (x + width / 2 + 0.05, y + bar_height - radius - 0.2),
-                width=width,
-                height=ellipse_height,
-                color="gray",
-                alpha=0.3,
-                zorder=0,
-            )
-        )
-
-        # Bar
-        ax.add_patch(
-            Rectangle(
-                (x, y), width, bar_height - radius, color=color, linewidth=0, zorder=1
-            )
-        )
-        ax.add_patch(
-            Ellipse(
-                (x + width / 2, y + bar_height - radius),
-                width=width,
-                height=ellipse_height,
-                color=color,
-                linewidth=0,
-                zorder=2,
-            )
-        )
-
     ax.set_ylabel("Usage (%)", fontsize=12, color=text_color)
     ax.set_xlabel("")
     ax.set_title(
