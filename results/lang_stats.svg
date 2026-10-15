@@ -6,7 +6,11 @@
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <cc:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+<<<<<<< Updated upstream
     <dc:date>2026-10-14T03:59:55.132469</dc:date>
+=======
+    <dc:date>2026-10-15T01:07:07.889341</dc:date>
+>>>>>>> Stashed changes
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <cc:Agent>
@@ -387,7 +391,11 @@ Q 75.77 267.7968 75.77 256.932
 L 75.77 220.716 
 Q 75.77 209.8512 77.956443 209.8512 
 z
+<<<<<<< Updated upstream
 " clip-path="url(#p91b2559af6)" style="fill: #93a2c5"/>
+=======
+" clip-path="url(#p3acbc9cf1c)" style="fill: #93a2c5"/>
+>>>>>>> Stashed changes
    </g>
    <g id="patch_4">
     <path d="M 77.956443 137.4192 
@@ -400,7 +408,11 @@ Q 75.77 195.3648 75.77 184.5
 L 75.77 148.284 
 Q 75.77 137.4192 77.956443 137.4192 
 z
+<<<<<<< Updated upstream
 " clip-path="url(#p91b2559af6)" style="fill: #ed9471"/>
+=======
+" clip-path="url(#p3acbc9cf1c)" style="fill: #ed9471"/>
+>>>>>>> Stashed changes
    </g>
    <g id="patch_5">
     <path d="M 77.956443 64.9872 
@@ -413,6 +425,7 @@ Q 75.77 122.9328 75.77 112.068
 L 75.77 75.852 
 Q 75.77 64.9872 77.956443 64.9872 
 z
+<<<<<<< Updated upstream
 " clip-path="url(#p91b2559af6)" style="fill: #6fb9a2"/>
    </g>
    <g id="line2d_1">
@@ -423,6 +436,18 @@ z
    </g>
    <g id="line2d_3">
     <path clip-path="url(#p91b2559af6)" style="fill: none; stroke: #424242; stroke-width: 2.25; stroke-linecap: round"/>
+=======
+" clip-path="url(#p3acbc9cf1c)" style="fill: #6fb9a2"/>
+   </g>
+   <g id="line2d_1">
+    <path clip-path="url(#p3acbc9cf1c)" style="fill: none; stroke: #424242; stroke-width: 2.25; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_2">
+    <path clip-path="url(#p3acbc9cf1c)" style="fill: none; stroke: #424242; stroke-width: 2.25; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_3">
+    <path clip-path="url(#p3acbc9cf1c)" style="fill: none; stroke: #424242; stroke-width: 2.25; stroke-linecap: round"/>
+>>>>>>> Stashed changes
    </g>
    <g id="text_4">
     <!-- 8 hrs 34 mins (98.36%) -->
@@ -1367,7 +1392,11 @@ z
   </g>
  </g>
  <defs>
+<<<<<<< Updated upstream
   <clipPath id="p91b2559af6">
+=======
+  <clipPath id="p3acbc9cf1c">
+>>>>>>> Stashed changes
    <rect x="75.77" y="57.744" width="452.4076" height="217.296"/>
   </clipPath>
  </defs>
